@@ -1,4 +1,4 @@
-package restaurant;
+package lab3.restaurant;
 // Customer class
 public class Customer {
     private String name;

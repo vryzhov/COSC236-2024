@@ -1,4 +1,4 @@
-package restaurant;
+package lab3.restaurant;
 // Main class to demonstrate collaboration
 public class RestaurantApp {
     public static void main(String[] args) {

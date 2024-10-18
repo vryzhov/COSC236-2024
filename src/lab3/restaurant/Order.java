@@ -1,4 +1,4 @@
-package restaurant;
+package lab3.restaurant;
 // Order class
 import java.util.ArrayList;
 import java.util.List;

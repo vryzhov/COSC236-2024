@@ -1,4 +1,4 @@
-package restaurant;
+package lab3.restaurant;
 // MenuItem class
 public class MenuItem {
     private String name;
